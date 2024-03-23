@@ -1,0 +1,68 @@
+.iam{
+    background-color: rgb(16, 16, 31);
+    padding: 10px;
+    margin: 10px;
+    width: 500px;
+    height: 250px;
+    position: fixed;
+    left: 450px;
+    color: blueviolet;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.img{
+    background-color: rgb(16, 16, 31);
+    padding: 10px;
+    margin: 10px;
+    width: 88px;
+    height: 88px;
+    position: fixed;
+    left: 655px;
+    bottom: 460px;
+    color: blueviolet;
+    border-radius: 100px;
+    text-align: center;
+}
+
+.ins{
+    background-color: rgb(16, 16, 31);
+    padding: 10px;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    left: 675px;
+    bottom: 340px;
+    color: blueviolet;
+    border-radius: 100px;
+    text-align: center;
+}
+
+.tele{
+    background-color: rgb(16, 16, 31);
+    padding: 10px;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    left: 735px;
+    bottom: 340px;
+    color: blueviolet;
+    border-radius: 100px;
+    text-align: center;
+}
+
+.tiktok{
+    background-color: rgb(16, 16, 31);
+    padding: 10px;
+    margin: 10px;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    left: 615px;
+    bottom: 340px;
+    color: blueviolet;
+    border-radius: 100px;
+    text-align: center;
+}
